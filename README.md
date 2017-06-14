@@ -1,4 +1,4 @@
-# Project de Arquitetura e Organização de Computadores
+# Projeto Arquitetura e Organização de Computadores
 
 Construir um emulador em software para emular a arquitetura de um dispositivo computacional
 
