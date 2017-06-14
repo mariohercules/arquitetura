@@ -54,9 +54,7 @@ i. “add X, Y”; onde X pode ser um registrador ou endereço de memória e Y
 
 c. Instrução  inc , incremento inteiro:
 
-i. “inc X”; onde X pode ser um registrador ou endereço de memória.
-
-    Incrementa o operando em uma unidade. d. Instrução  imul , multiplicação inteira:
+i. “inc X”; onde X pode ser um registrador ou endereço de memória. Incrementa o operando em uma unidade. d. Instrução  imul , multiplicação inteira:
 
 i. “imul X, Y, Z”; onde X pode ser um registrador ou endereço de memória e Y/Z pode ser registrador, endereço de memória ou inteiro literal. Exemplos:
 
