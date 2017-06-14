@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 
 public class ModuloES {
   	    
-    String nome = System.getProperty("user.dir") + "\\src\\code.txt";
+    String nome = System.getProperty("user.dir") + "/src/code.txt";
     
     List<String> instrucoes;
     
