@@ -3,6 +3,7 @@ package unifor.br.arquitetura;
 public class Instrucao {
 	
 	Operacao operacao;
+	
 	String param_1;
 	String param_2;
 	String param_3;
@@ -171,7 +172,6 @@ public class Instrucao {
 			for (int i = 12; i < aux.length+12; i++) {
 				arr[i] = aux[i-12];
 			}
-			
 		}
 		
 		return arr;
@@ -180,6 +180,4 @@ public class Instrucao {
 	public String toString() { 
 	    return this.operacao.descricao.split("_")[0] + ", " + this.param_1 + ", " + this.param_2 + ", " + this.param_3;
 	} 
-		
-
 }

@@ -5,8 +5,7 @@ public class Barramento {
 	RAM ram;
 	ModuloES moduloES;
 	CPU cpu;
-	
-		
+			
 	public Barramento(ModuloES moduloES) {
 		this.moduloES = moduloES;
 		this.ram = new RAM(this);

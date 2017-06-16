@@ -6,6 +6,8 @@ public class Registradores {
 	String b = "0";
 	String c = "0";
 	String d = "0";
+	
+	// Contador de Instrucoes
 	int ci = 1;
 	
 	public Registradores() {

@@ -8,8 +8,12 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class ModuloES {
-  	    
+  	
+	// for mac and linux    
     String nome = System.getProperty("user.dir") + "/src/code.txt";
+
+    // for windows
+    // String nome = System.getProperty("user.dir") + "\\src\\code.txt";
     
     List<String> instrucoes;
     

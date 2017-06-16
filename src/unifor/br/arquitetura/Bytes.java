@@ -30,12 +30,7 @@ public class Bytes {
 	public static String parseToString(byte[] arr) {
         
 		String result = null;
-		
-//    	try {
-			result = new String(arr);
-//		} catch (UnsupportedEncodingException e) {
-//			e.printStackTrace();
-//		}
+		result = new String(arr);
         
     	return result;
     }

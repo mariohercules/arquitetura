@@ -177,8 +177,6 @@ public class CPU {
 	
 	public void print(){		
 		
-		
-		
 		int loop = barramento.ram.seq/16;
 		if(registradores.ci < loop){
 			
