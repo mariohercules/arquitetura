@@ -16,6 +16,14 @@ d. [2,0 pontos] Barramento
 
 e. [2,0 pontos] Módulo de Entrada e Saída (E/S)
 
+## Getting Started (NP2)
+
+a. Memoria Cache
+
+b. Mecanismo de Loop
+
+c. Barramento 3-vias
+
 
 ### Prerequisites
 
